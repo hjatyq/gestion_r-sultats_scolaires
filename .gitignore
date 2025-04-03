@@ -1,0 +1,7 @@
+# Ignorer les fichiers de log
+*.log
+# Ignorer seulement quelques notebooks
+index.ipynb
+poo.ipynb
+SEANCE3.ipynb
+index.py
